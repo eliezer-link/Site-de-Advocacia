@@ -98,15 +98,12 @@ h3{
 }
 
 span{
-    font-weight: bold;
-    font-size: 20px;
     margin-left: 50%;
     position: relative;
-    top: -346px;
+    top: -350px;
     left: 60px;
-    width: 40%;
-    text-align: center;
+    width: 35%;
+    font-size: 35px;
+    padding-top: 20px;
 }
-
-
 
